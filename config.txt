@@ -1,0 +1,23 @@
+{
+  "display_option" : "True",
+  "game_speed" : 0,
+  "save_weights" : "True",
+  "model_name_aftertrain" : "Model_run_26feb_no.hdf5",
+  "total_iteration" : 2,
+  "game_grid" : "[440, 440]",
+  "epsilon" : 80,
+  "learning_curve" : "True",
+  "print_learning_scores": "True",
+  "use_pre_trained_model" : "False",
+  "pre_trained_model_name" : "weights.hdf5",
+  "reward" :10,
+  "food_image": "img/food_burger.png",
+  "x_dimension_food": 240,
+  "y_dimension_food": 200,
+  "TotalDenseLayer": 2,
+  "Dense_Layer_Neuron": 150,
+  "Dropout": 0.30,
+  "movement": 30,
+  "snake_body_image": "img/snake_body_black_small.png"
+
+}

@@ -1,0 +1,7 @@
+1) Open "Annaconda Prompt"
+    a) go to cd "unzipped folder location"
+2) conda create -n snakerl pip python=3.7
+3) conda activate snakerl
+4) pip install -r requirements.txt
+5) Check the config.txt ; change parameters if you need to
+6) python run_snake.py
